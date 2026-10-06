@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Học Tập Tin Học",
+  "description": "Học Tin học – Khám phá công nghệ – Sử dụng máy tính thông minh và an toàn dành cho học sinh THCS lớp 6, 7, 8, 9!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
